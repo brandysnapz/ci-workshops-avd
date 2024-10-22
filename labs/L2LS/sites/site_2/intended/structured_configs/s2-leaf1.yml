@@ -20,7 +20,7 @@ local_users:
 - name: arista
   privilege: 15
   role: network-admin
-  sha512_password: $6$arista$T/G8HxHQirJVTOWTLFJinuQ9Av9F2xu5CpLae8uMI/4.5pYqVhhbOyE1eaB3eVnMbTMaIT5HOVORXijMSkIFJ1
+  sha512_password: $6$arista$RArU/OEQzi81GpjRc8tQz6nDYbOoQGCq02vnj4AeNZrW6wSGSN6dyDw1/DzCDi5HvsTWHXFmASMPSy7iJED.T/
   ssh_key: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCZCZE6Pp4rs+s6YfUZvcvd6j1/c0KRsyoeGDYrcEgk2HZEsPpwq+BccOkvH7IqSYrQYdMs645OxaYRBYNURVcn+yneK4xADZ4VtJjJypQJfqH10E8iPadAC9KP6SiGg8Wg2iWq8ErCmnMTTKBuZ/x0lqBgaFuE1d1Q8rCr9QFlMDofhq3Rsm1cTQCPwKopwU1J1rcdWefPTyf24XEBSllYCwwIKbbtt6epBSnxBeB/speAFE7uk7pAlpVe41e97aecByHsobMt6BQZfRJLMAdcocrJoTERQmAeuAZ5bBk0RrkulGMnrjsLbx//zH4waCj4I5zBItM3NXhXJBqrOaFt
     arista@nz-akl-auto-atd-36-b505d558-eos.c.atds-280712.internal
 vrfs:
